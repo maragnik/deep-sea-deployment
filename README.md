@@ -9,4 +9,4 @@ This repo holds the source code for the analysis of the experimental data taken 
 ```
 # Set up development enviroment
 
-1. Download and install ROOT-CERN framework from [here](https://root.cern.ch/building-root)
+1. Download and install ROOT-CERN framework from [here](https://root.cern.ch/building-root) (The ROOT version used is 6.12/06)
